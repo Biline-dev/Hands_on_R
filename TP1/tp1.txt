@@ -1,0 +1,12 @@
+TP1 - Statistique descriptive unidimensionnelle (exercice du cours)
+Initiation à R (tutoriel: https://github.com/wikistat/Intro-R)
+Programmation R:
+Refaire l’exemple de statistique descriptive unidimensionnelle (slides 18-24)
+
+- Effectifs, effectifs cumulés, fréquences et fréquences cumulées
+- Représentations graphiques
+- Le diagramme en bâtons + Le diagramme cumulatif
+- La médiane (quantile d’ordre 1/2) et les quartiles (quantile d’ordre1/4, 3/4)
+- La moyenne
+- La dispersion
+- La variance et l’écart–type
